@@ -1,2 +1,2 @@
 # Python
-Paul Dalba's Class 2020 Python.
+Class 2020 Python.
