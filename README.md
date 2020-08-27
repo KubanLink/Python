@@ -1,5 +1,5 @@
-# Introduction to Python Spring 2020
-> This class was taught under Dr. Dalba.
+# Introduction to Python
+> This class was taught under Dr. Dalba at Riverside City College.
 ## Table of contents
 * [Overview of Class](#general-info)
 * [Screenshots](#screenshots)
@@ -10,7 +10,11 @@
 * [Inspiration](#inspiration)
 * [Contact](#contact)
 ## General info
-Add more general information about project. What the purpose of the project is? Motivation?
+In this class we were introduced to the Anaconda IDE with the focus on using [Spyder](https://www.spyder-ide.org/) a scientific enviorment, [Jupyter Notebook](https://jupyter.org/) for lecturing purposes, as well as [W3schools](https://www.w3schools.com/python/) a user friendly tool to promote individual learning. 
+
+This class was very flexible to the style of code and open to any answers that gave the correct solution! 
+
+This class concluded with uses of [Matplotlib](https://matplotlib.org/) and a Final Project!
 ## Screenshots
 ![Example screenshot](./img/screenshot.png)
 ## Technologies
@@ -18,7 +22,7 @@ Add more general information about project. What the purpose of the project is? 
 * Tech 2 - version 2.0
 * Tech 3 - version 3.0
 ## Setup
-Describe how to install / setup your local environement / add link to demo version.
+Download Anacoda!(https://www.anaconda.com/products/individual) / setup your local environement / add link to demo version.
 ## Code Examples
 Show examples of usage:
 `put-your-code-here`
